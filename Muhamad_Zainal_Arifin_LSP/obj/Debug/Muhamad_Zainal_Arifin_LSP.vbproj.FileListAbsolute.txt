@@ -1,0 +1,11 @@
+C:\Users\LIVA\Documents\Project\Muhamad_Zainal_Arifin_LSP\Muhamad_Zainal_Arifin_LSP\bin\Debug\Muhamad_Zainal_Arifin_LSP.exe.config
+C:\Users\LIVA\Documents\Project\Muhamad_Zainal_Arifin_LSP\Muhamad_Zainal_Arifin_LSP\bin\Debug\Muhamad_Zainal_Arifin_LSP.exe
+C:\Users\LIVA\Documents\Project\Muhamad_Zainal_Arifin_LSP\Muhamad_Zainal_Arifin_LSP\bin\Debug\Muhamad_Zainal_Arifin_LSP.pdb
+C:\Users\LIVA\Documents\Project\Muhamad_Zainal_Arifin_LSP\Muhamad_Zainal_Arifin_LSP\bin\Debug\Muhamad_Zainal_Arifin_LSP.xml
+C:\Users\LIVA\Documents\Project\Muhamad_Zainal_Arifin_LSP\Muhamad_Zainal_Arifin_LSP\obj\Debug\Muhamad_Zainal_Arifin_LSP.Form1.resources
+C:\Users\LIVA\Documents\Project\Muhamad_Zainal_Arifin_LSP\Muhamad_Zainal_Arifin_LSP\obj\Debug\Muhamad_Zainal_Arifin_LSP.Resources.resources
+C:\Users\LIVA\Documents\Project\Muhamad_Zainal_Arifin_LSP\Muhamad_Zainal_Arifin_LSP\obj\Debug\Muhamad_Zainal_Arifin_LSP.vbproj.GenerateResource.Cache
+C:\Users\LIVA\Documents\Project\Muhamad_Zainal_Arifin_LSP\Muhamad_Zainal_Arifin_LSP\obj\Debug\Muhamad_Zainal_Arifin_LSP.exe
+C:\Users\LIVA\Documents\Project\Muhamad_Zainal_Arifin_LSP\Muhamad_Zainal_Arifin_LSP\obj\Debug\Muhamad_Zainal_Arifin_LSP.xml
+C:\Users\LIVA\Documents\Project\Muhamad_Zainal_Arifin_LSP\Muhamad_Zainal_Arifin_LSP\obj\Debug\Muhamad_Zainal_Arifin_LSP.pdb
+C:\Users\LIVA\Documents\Project\Muhamad_Zainal_Arifin_LSP\Muhamad_Zainal_Arifin_LSP\obj\Debug\Muhamad_Zainal_Arifin_LSP.Flogin.resources
